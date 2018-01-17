@@ -1,0 +1,12 @@
+2018-01-17 01:14:49,631 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.caelum:projeto-jpa-2:1.0-SNAPSHOT @ /home/raphael/java/projeto-jpa-2/projeto-jpa-2/pom.xml.
+2018-01-17 01:14:52,175 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projeto-jpa-2/src/main/java
+2018-01-17 01:14:52,176 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projeto-jpa-2/src/test/java
+2018-01-17 01:14:53,874 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2018-01-17 01:14:56,191 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 01:14:56,202 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-17 01:14:56,221 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 01:14:56,222 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-17 01:18:06,648 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 01:18:06,649 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-17 01:18:06,650 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-17 01:18:06,651 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
