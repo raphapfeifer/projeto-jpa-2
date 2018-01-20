@@ -10,3 +10,103 @@
 2018-01-17 01:18:06,649 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
 2018-01-17 01:18:06,650 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-01-17 01:18:06,651 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:02:42,347 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:02:42,408 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:02:42,416 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:02:42,449 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:03:01,320 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:03:01,323 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:03:01,325 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:03:01,326 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:08:17,602 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:08:17,603 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:08:17,605 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:08:17,606 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:11:00,027 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:11:00,028 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:11:00,030 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:11:00,031 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:11:48,358 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:11:48,359 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:11:48,361 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:11:48,361 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:12:10,539 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:12:10,539 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:12:10,541 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:12:10,541 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:14:28,082 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:14:28,083 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:14:28,084 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:14:28,085 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:17:18,018 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:17:18,019 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:17:18,025 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:17:18,026 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:18:24,776 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:18:24,776 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:18:24,785 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:18:24,785 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:18:54,917 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:18:54,918 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:18:54,919 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:18:54,920 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:21:11,913 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:21:11,914 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:21:11,916 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:21:11,916 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:21:27,507 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:21:27,508 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:21:27,509 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:21:27,510 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:21:50,806 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:21:50,807 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:21:50,809 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:21:50,809 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:27:34,333 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:27:34,334 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:27:34,336 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:27:34,336 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:32:19,627 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:32:19,627 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:32:19,629 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:32:19,629 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:33:25,407 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:33:25,408 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:33:25,411 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:33:25,412 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:35:32,275 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:35:32,276 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:35:32,277 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:35:32,278 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:35:44,164 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:35:44,164 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:35:44,171 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:35:44,171 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:38:19,573 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:38:19,573 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:38:19,576 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:38:19,576 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:39:53,424 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:39:53,424 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:39:53,426 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:39:53,426 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:45:47,197 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:45:47,198 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:45:47,199 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:45:47,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:46:06,001 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:46:06,001 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:46:06,002 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:46:06,003 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:47:01,912 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:47:01,913 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:47:01,914 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:47:01,915 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:48:07,665 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:48:07,666 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:48:07,667 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:48:07,668 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources
+2018-01-20 00:52:29,310 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:52:29,311 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/main/resources
+2018-01-20 00:52:29,312 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-20 00:52:29,312 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/raphael/java/projeto-jpa-2/projeto-jpa-2/src/test/resources

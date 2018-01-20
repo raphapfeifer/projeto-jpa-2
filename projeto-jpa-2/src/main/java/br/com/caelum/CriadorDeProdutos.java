@@ -78,7 +78,7 @@ public class CriadorDeProdutos {
 				livroDeSpring.setNome("Vire o jogo com Spring Framework");
 				livroDeSpring.setLoja(casaDoCodigo);
 				livroDeSpring.setPreco(30.0);
-//				livroDeSpring.adicionarCategorias(tecnologia);
+				livroDeSpring.adicionarCategorias(tecnologia);
 				livroDeSpring.setDescricao("Criado para simplificar o desenvolvimento de aplicações Java, "
 						+ "o Spring se tornou um dos frameworks de mais destaque dentro desse grande ambiente.  "
 						+ "Aprenda muito mais que o básico do Spring, desde o tradicional Container de Inversão "
