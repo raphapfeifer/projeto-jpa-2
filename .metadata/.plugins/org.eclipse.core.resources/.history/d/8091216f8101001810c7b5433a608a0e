@@ -1,0 +1,5 @@
+import javax.servlet.ServletResponse;
+
+public class EntityManagerFilter implements Filter {
+
+}

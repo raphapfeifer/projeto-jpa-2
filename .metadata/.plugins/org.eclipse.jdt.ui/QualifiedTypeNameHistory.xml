@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.orm.jpa.support.OpenEntityManagerInViewInterceptor"/>
+<fullyQualifiedTypeName name="org.springframework.web.util.Log4jConfigListener"/>
+<fullyQualifiedTypeName name="javax.servlet.Filter"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,15 @@
+package br.com.caelum;
+
+import java.beans.PropertyVetoException;
+
+import com.mchange.v2.c3p0.ComboPooledDataSource;
+
+public class TestaPool {
+
+	public static void main(String[] args) throws PropertyVetoException {
+		
+		ComboPooledDataSource dataSource = (ComboPooledDataSource) new JpaConfigurator().getDataSource();
+
+	}
+
+}
